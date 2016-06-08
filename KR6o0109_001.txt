@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:02.836169
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:36
 #+TITLE: 大乘起信論裂網疏
 #+PROPERTY: CBETA_ID T44n1850
 #+PROPERTY: ID KR6o0109
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 44, No. 1850
 #+PROPERTY: VOL 44
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0109_T_000-0422b>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0109_T_001-0422b> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1850[cf.No.1667]¶
-
- 大乘起信論裂網疏卷第一¶
+No. 1850 [cf. No. 1667]¶
+大乘起信論裂網疏卷第一¶
 ¶
 靈峰蕅益沙門智旭述¶
 

@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:03.011020
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:36
 #+TITLE: 大乘起信論裂網疏
 #+PROPERTY: CBETA_ID T44n1850
 #+PROPERTY: ID KR6o0109
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 44, No. 1850
 #+PROPERTY: VOL 44
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0109_T_000-0422b>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0109_T_006-0457a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 6
 ¶
 ¶
-
- 大乘起信論裂網疏卷第六¶
+大乘起信論裂網疏卷第六¶
 ¶
 靈峯蕅益沙門智旭述¶
 
@@ -726,11 +725,7 @@
 德普施群生。第四句。迴向真如實際。同成究¶
 竟大菩提也。¶
 
-跋
-:PROPERTIES:
-:head: 跋
-:END:
-¶
+* 跋¶
 
 大乘起信論者。佛祖傳心之正印。法性法相¶
 之總持也。如來昔以大乘阿毘曇。付與彌勒。¶
